@@ -1,0 +1,68 @@
+.fstcontainer {
+    height: 88vh;
+    width: 450px;
+    background-color: rgb(235, 168, 255);
+    border-radius: 10px;
+    /* color:rgba(0, 0, 0, 0); */
+}
+
+div :nth-child(1) {
+    background-color: rgb(204, 82, 252);
+    width: 350px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    font-size: 2.5rem;
+}
+
+span {
+    background-color: rgb(252, 204, 47);
+    height: 50px;
+    width: 350px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.8rem;
+}
+
+div :nth-child(3) {
+    width: 100px;
+    height: 500px;
+    background-color: rgb(204, 82, 252);
+    margin: 10px 51px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    border-radius: 10px;
+}
+
+div :nth-child(4) {
+    width: 234px;
+    height: 500px;
+    background-color: rgb(204, 82, 252);
+    margin: -508px 165px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+}
+
+div :nth-child(5){
+    width: 350px;
+    height: 100px;
+    background-color:  rgb(204, 82, 252);
+    margin: auto;
+    margin-top: 520px;
+    border-radius: 10px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    font-size: 2.5rem;
+}
